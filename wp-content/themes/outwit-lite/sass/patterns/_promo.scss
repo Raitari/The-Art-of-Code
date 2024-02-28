@@ -1,0 +1,21 @@
+.wp-block-group.promo-section {
+    margin-top: 0;
+}
+
+.promo-section {
+
+    .wp-block-cover {
+        min-height: 300px;
+    }
+
+    .wp-block-buttons {
+
+        .wp-block-button {
+            .wp-block-button__link {
+                background: var(--wp--preset--color--foreground);
+                color: var(--wp--preset--color--dark-color);
+                margin-top: 0;
+            }
+        }
+    }
+}

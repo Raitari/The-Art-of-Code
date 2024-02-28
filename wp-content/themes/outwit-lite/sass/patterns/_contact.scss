@@ -1,0 +1,95 @@
+// FOR CONTACT FORM
+
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  text-transform: uppercase;
+  font-size: var(--wp--preset--font-size--medium);
+  font-family: var(--wp--preset--font-family--poppins);
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  text-transform: uppercase;
+  font-size: var(--wp--preset--font-size--medium);
+  font-family: var(--wp--preset--font-family--poppins);
+}
+
+:-ms-input-placeholder {
+  /* IE 10+ */
+  text-transform: uppercase;
+  font-size: var(--wp--preset--font-size--medium);
+  font-family: var(--wp--preset--font-family--poppins);
+}
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  text-transform: uppercase;
+  font-size: var(--wp--preset--font-size--medium);
+  font-family: var(--wp--preset--font-family--poppins);
+}
+
+form.wpcf7-form {
+  label {
+    color: var(--wp--preset--color--secondary-text-color);
+    font-size: var(--wp--preset--font-size--medium);
+    font-size: 13px;
+  }
+
+  input[type=submit] {
+    border: 0;
+  }
+
+  textarea {
+    max-height: 120px;
+  }
+
+  br {
+    display: none;
+  }
+
+  span.wpcf7-not-valid-tip {
+    font-size: 13px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  p {
+    margin: 20px 0;
+    position: relative;
+  }
+}
+
+.wp-block-sidebar .wp-block-search__input {
+  background: transparent;
+  border: 1px solid var(--wp--preset--color--alternate-border-color);
+}
+
+// FOR SOCIAL LINKS
+
+.wp-block-social-links:not(.is-style-logos-only):not(.is-style-pill-shape):not(.is-style-circle-shape) .wp-social-link {
+  background-color: transparent;
+  border: 1px solid;
+  overflow: hidden;
+  padding: 0;
+
+  a {
+    background-color: transparent;
+  }
+
+  a,
+  button {
+    overflow: hidden;
+    padding: clamp(10px, 3vw, 15px);
+    position: relative;
+    @include transition(0.5s ease-in-out);
+
+
+  }
+}
+
+.wp-block-social-links:not(.is-style-logos-only) .wp-social-link .clone {
+  padding: 0;
+  position: absolute;
+  @include transform(translateY(400%));
+}

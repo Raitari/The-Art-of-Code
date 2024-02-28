@@ -1,0 +1,45 @@
+/*
+Theme Name: OutWit Lite
+Theme URI: https://catchthemes.com/themes/outwit-lite
+Author: Catch Themes
+Author URI: https://catchthemes.com
+Description: OutWit Lite is a free versatile eCommerce WordPress block theme that makes building an online store effortless than ever. The theme is perfect for all types of online businesses for displaying products and services online. It comes with tons of powerful features that manage all sorts of eCommerce websites. With the help of drag and drop interface, you can easily change every element of your website. The theme includes an attractive design that is built to boost your online store sales. And, there are many advanced options available that let you style your store the way you like. There are 17+ block patterns, 15 Templates, and 7 Template Parts available in this theme. This theme is fully compatible with the WooCommerce plugin, so build a fully functional online store with OutWit Lite. Some of the block patterns are 404 Header, Archive Header, Best Seller, Blog Header With Background, Featured Content, Footer, Header, Header Media, Promo Section, Recent Blog, Search Header, Shop Header, Sidebar, and many more. All the block patterns, Templates, and Template Parts are extremely fast loading, optimized for mobile, and highly customizable.
+Requires at least: 5.9
+Tested up to: 6.3
+Requires PHP: 5.6
+Version: 1.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: outwit-lite
+Tags: e-commerce, portfolio, blog, one-column, two-columns, left-sidebar, right-sidebar, block-patterns, block-styles, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-site-editing, threaded-comments, wide-blocks, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Outwit Lite is based on Catch FSE WordPress Theme, 2012-2023 Catchthemes.com
+Catch FSE is distributed under the terms of the GNU GPL.
+*/
+
+/*--------------------------------------------------------------
+# Mixin
+--------------------------------------------------------------*/
+@import "sass/mixin/mixin";
+
+/*--------------------------------------------------------------
+# Blocks
+--------------------------------------------------------------*/
+
+@import "sass/blocks/all-blocks";
+
+/*--------------------------------------------------------------
+# Components
+--------------------------------------------------------------*/
+@import "sass/patterns/all-patterns";
+
+/* --- Block Media Quries
+-------------------------------------------------------- */
+@import "sass/media-query";
+
+/* --- Block Color
+-------------------------------------------------------- */
+@import "sass/color";

@@ -1,0 +1,239 @@
+# <!=Copyright (C) 2023 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Outwit Lite\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2023-09-18 19:32+0545\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/about.php:19
+msgid "OutWit"
+msgstr ""
+
+#: inc/about.php:20
+msgid ""
+"Get your hands on the WordPress Full Site Editing features. Start building "
+"your website with advanced block patterns and custom blocks! Get additional "
+"27+ Pre-Designed Block Patterns, 25 FSE Templates, and 12 Template Parts  "
+"that are highly customizable and fully responsive."
+msgstr ""
+
+#: inc/about.php:22
+msgid "Get OutWit"
+msgstr ""
+
+#: inc/about.php:24 inc/about.php:96
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:49
+msgid "OutWit Lite"
+msgstr ""
+
+#: inc/about.php:68
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:76
+msgid "Getting Started with OutWit Lite!"
+msgstr ""
+
+#: inc/about.php:77
+msgid ""
+"Awesome! OutWit Lite has been installed and activated successfully. Now, "
+"you can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in "
+"this astounding theme."
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme instructions"
+msgstr ""
+
+#: inc/about.php:84
+msgid "More Features with OutWit Theme"
+msgstr ""
+
+#: inc/about.php:85
+msgid ""
+"To get more beautiful block patterns and templates, we recommend you "
+"upgrade to OutWit. With the pro theme installed, get more options, blocks, "
+"block patterns, templates and template parts."
+msgstr ""
+
+#: inc/about.php:86
+msgid "Buy Outwit"
+msgstr ""
+
+#: inc/about.php:95
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:97
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:98
+msgid "FSE FAQs"
+msgstr ""
+
+#: inc/about.php:99
+msgid "Change log"
+msgstr ""
+
+#: inc/about.php:100
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:107
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:108
+msgid ""
+"Loved OutWit Lite? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:109
+msgid "Review"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Outwit Lite"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:35 inc/block-styles.php:53 inc/block-styles.php:62
+#: inc/block-styles.php:72 inc/block-styles.php:82 inc/block-styles.php:91
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:44
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404-header-with-background.php:22 patterns/404-header.php:13
+msgid "404 Nothing Found"
+msgstr ""
+
+#: patterns/404-header-with-background.php:25 patterns/404-header.php:17
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: patterns/best-seller.php:13
+msgid "Our Best Seller"
+msgstr ""
+
+#: patterns/blog-header-with-background.php:19
+msgid "Recent From Blog"
+msgstr ""
+
+#: patterns/featured-content.php:13
+msgid "Featured Content"
+msgstr ""
+
+#: patterns/footer-default.php:14
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: patterns/footer-default.php:15
+msgid "Y"
+msgstr ""
+
+#: patterns/header-with-cart-banner.php:63
+msgid "denim Co."
+msgstr ""
+
+#: patterns/header-with-cart-banner.php:69
+msgid "View More"
+msgstr ""
+
+#: patterns/hidden-404.php:9
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:11
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:11
+msgid "Search..."
+msgstr ""
+
+#: patterns/promo.php:18
+msgid "Promotional Content"
+msgstr ""
+
+#: patterns/promo.php:21
+msgid "Autumn 2023 Collection"
+msgstr ""
+
+#: patterns/promo.php:27
+msgid "Shop now"
+msgstr ""
+
+#: patterns/recent-blog.php:55
+msgid "About"
+msgstr ""
+
+#: patterns/recent-blog.php:63
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio "
+"lacus, dignissim sollicitudin finibus\n"
+"            commodo, rhoncus et ante."
+msgstr ""
+
+#: patterns/recent-blog.php:70
+msgid "Read More"
+msgstr ""
+
+#: patterns/recent-blog.php:80
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/recent-blog.php:88
+msgid "Tags"
+msgstr ""
+
+#: patterns/recent-blog.php:96
+msgid "Categories"
+msgstr ""
+
+#: patterns/shop-header.php:17
+msgid "The Shop"
+msgstr ""

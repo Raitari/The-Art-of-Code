@@ -1,0 +1,79 @@
+.review-section {
+    .wc-block-components-review-list {
+        display: grid;
+        grid-gap: var(--wp--custom--spacing--normal);
+        grid-template-columns: 1fr;
+        padding: 0;
+
+        li {
+            margin: 0;
+            @include flex;
+            flex-direction: column-reverse;
+            @include transition(0.5s ease-in-out);
+
+            &:hover {
+                @include transform(scale(1.1))
+            }
+
+            .wc-block-components-review-list-item__text {
+                padding: var(--wp--custom--spacing--normal);
+                padding-top: calc(var(--wp--custom--spacing--normal) * 2);
+                position: relative;
+
+                &:before {
+                    content: "\201C";
+                    display: block;
+                    font-family: "Arial";
+                    font-size: 94px;
+                    font-size: 5.875rem;
+                    left: var(--wp--custom--spacing--normal);
+                    line-height: 0;
+                    position: absolute;
+                    top: 4.5rem;
+                }
+            }
+
+            .wc-block-components-review-list-item__image {
+                height: 4.55rem;
+                width: 4.55rem;
+
+                img {
+                    @include border(50%);
+                }
+            }
+
+            .wc-block-components-review-list-item__meta {
+                display: grid;
+                grid-gap: 0.25rem;
+                padding-left: 2rem;
+                margin-top: 0.5rem;
+            }
+
+            .wc-block-components-review-list-item__info {
+                margin: 0;
+                padding: var(--wp--custom--spacing--normal);
+                position: relative;
+
+                .wc-block-components-review-list-item__author {
+                    text-transform: capitalize;
+                }
+
+                &:before {
+                    background-color: var(--wp--preset--color--secondary-bg-color);
+                    content: "";
+                    height: 100%;
+                    left: 0;
+                    opacity: 0.4;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    z-index: -1;
+                }
+            }
+        }
+    }
+}
+
+.wp-block-section.review-section:nth-child(even) .wc-block-components-review-list li .wc-block-components-review-list-item__text:before {
+    color: var(--wp--preset--color--border-color);
+}
