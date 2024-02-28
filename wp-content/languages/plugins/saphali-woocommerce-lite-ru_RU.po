@@ -1,0 +1,176 @@
+# Translation of Plugins - Saphali Woocommerce Lite - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Saphali Woocommerce Lite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-28 16:28:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Saphali Woocommerce Lite - Stable (latest release)\n"
+
+#. translators: %s: field name
+#: saphali-woocommerce-lite.php:315 saphali-woocommerce-lite.php:349
+msgctxt "checkout-validation"
+msgid "Billing %s"
+msgstr "Выставление счетов %s"
+
+#. translators: %s: field name
+#: saphali-woocommerce-lite.php:311 saphali-woocommerce-lite.php:345
+msgctxt "checkout-validation"
+msgid "Shipping %s"
+msgstr "Доставка %s"
+
+#: saphali-woocommerce-lite.php:1333
+msgid "Save"
+msgstr "Сохранить"
+
+#: saphali-woocommerce-lite.php:1534
+msgid "State / County"
+msgstr "Область / район"
+
+#: saphali-woocommerce-lite.php:1530
+msgid "Postcode / ZIP"
+msgstr "Почтовый индекс"
+
+#: saphali-woocommerce-lite.php:1526
+msgid "Town / City"
+msgstr "Населённый пункт"
+
+#: saphali-woocommerce-lite.php:319 saphali-woocommerce-lite.php:321
+#: saphali-woocommerce-lite.php:353 saphali-woocommerce-lite.php:355
+msgid "%s is a required field."
+msgstr "%s - обязательное поле."
+
+#: saphali-woocommerce-lite.php:306 saphali-woocommerce-lite.php:340
+msgid "is a required field."
+msgstr "это обязательное поле."
+
+#: saphali-woocommerce-lite.php:304 saphali-woocommerce-lite.php:338
+msgctxt "FIELDNAME is a required field."
+msgid "%s is a required field."
+msgstr "%s - обязательное поле."
+
+#: saphali-woocommerce-lite.php:720
+msgid " (new)"
+msgstr " (новый)"
+
+#. Author URI of the plugin
+msgid "http://saphali.com/"
+msgstr "http://saphali.com/"
+
+#. Author of the plugin
+msgid "Saphali"
+msgstr "Saphali"
+
+#. Plugin URI of the plugin
+msgid "http://saphali.com/saphali-woocommerce-plugin-wordpress"
+msgstr "http://saphali.com/saphali-woocommerce-plugin-wordpress"
+
+#: saphali-woocommerce-lite.php:1584
+msgid "State/County or state code"
+msgstr "Код страны/республики или области"
+
+#: saphali-woocommerce-lite.php:1546
+msgid "Email"
+msgstr "Email"
+
+#: saphali-woocommerce-lite.php:1542
+msgid "Telephone"
+msgstr "Телефон"
+
+#: saphali-woocommerce-lite.php:1539 saphali-woocommerce-lite.php:1588
+msgid "2 letter Country code"
+msgstr "2-х буквенный код страны"
+
+#: saphali-woocommerce-lite.php:1538 saphali-woocommerce-lite.php:1587
+msgid "Country"
+msgstr "Страна"
+
+#: saphali-woocommerce-lite.php:1535
+msgid "Country or state code"
+msgstr "Код страны или области"
+
+#: saphali-woocommerce-lite.php:1583
+msgid "State/County"
+msgstr "Область/район"
+
+#: saphali-woocommerce-lite.php:1579
+msgid "Postcode"
+msgstr "Почтовый индекс"
+
+#: saphali-woocommerce-lite.php:1575
+msgid "City"
+msgstr "Город"
+
+#: saphali-woocommerce-lite.php:1522 saphali-woocommerce-lite.php:1571
+msgid "Address 2"
+msgstr "Адрес 2"
+
+#: saphali-woocommerce-lite.php:1518 saphali-woocommerce-lite.php:1567
+msgid "Address 1"
+msgstr "Адрес 1"
+
+#: saphali-woocommerce-lite.php:1514 saphali-woocommerce-lite.php:1563
+msgid "Company"
+msgstr "Компания"
+
+#: saphali-woocommerce-lite.php:1510 saphali-woocommerce-lite.php:1559
+msgid "Last name"
+msgstr "Фамилия"
+
+#: saphali-woocommerce-lite.php:1506 saphali-woocommerce-lite.php:1555
+msgid "First name"
+msgstr "Имя"
+
+#: saphali-woocommerce-lite.php:726
+msgid "Lithuanian Litas"
+msgstr "Литовский лит"
+
+#: saphali-woocommerce-lite.php:725
+msgid "Узбекский сум"
+msgstr "Узбекский сум"
+
+#: saphali-woocommerce-lite.php:724
+msgid "Казахстанский тенге "
+msgstr "Казахстанский тенге "
+
+#: saphali-woocommerce-lite.php:723
+msgid "Киргизский сом"
+msgstr "Киргизский сом"
+
+#: saphali-woocommerce-lite.php:722
+msgid "Armenian dram  (Դրամ)"
+msgstr "Армянский драм (Դրամ)"
+
+#: saphali-woocommerce-lite.php:720 saphali-woocommerce-lite.php:721
+msgid "Belarusian ruble%s"
+msgstr "Белорусский рубль %s"
+
+#: saphali-woocommerce-lite.php:717 saphali-woocommerce-lite.php:719
+msgid "Russian ruble"
+msgstr "Российский рубль"
+
+#: saphali-woocommerce-lite.php:716
+msgid "Ukrainian hryvnia"
+msgstr "Украинская гривна"
+
+#: saphali-woocommerce-lite.php:713
+msgid "Saphali WC Lite"
+msgstr "Saphali WC Lite"
+
+#: saphali-woocommerce-lite.php:713
+msgid "Настройки Saphali WC Lite"
+msgstr "Настройки Saphali WC Lite"
+
+#: saphali-woocommerce-lite.php:682 saphali-woocommerce-lite.php:1552
+#: saphali-woocommerce-lite.php:1678
+msgid "Customer Shipping Address"
+msgstr "Адрес доставки"
+
+#: saphali-woocommerce-lite.php:678 saphali-woocommerce-lite.php:1503
+#: saphali-woocommerce-lite.php:1674
+msgid "Customer Billing Address"
+msgstr "Контактные данные"

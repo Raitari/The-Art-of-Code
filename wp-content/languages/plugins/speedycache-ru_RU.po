@@ -1,0 +1,1118 @@
+# Translation of Plugins - SpeedyCache &#8211; Cache, Optimization, Performance - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - SpeedyCache &#8211; Cache, Optimization, Performance - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-29 15:12:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - SpeedyCache &#8211; Cache, Optimization, Performance - Stable (latest release)\n"
+
+#: main/settings.php:3818
+msgid "Documentation"
+msgstr "Документация (англ.)"
+
+#: main/settings.php:3819
+msgid "If you face any issue or need help with the settings check our docs"
+msgstr "Если у вас возникли проблемы или вам нужна помощь с настройками, ознакомьтесь с нашей документацией"
+
+#: main/settings.php:1572 main/settings.php:1601 main/settings.php:4027
+msgid "Critical CSS"
+msgstr "Критическая CSS"
+
+#: main/settings.php:1578
+msgid "Logs"
+msgstr "Журналы"
+
+#: main/settings.php:2276 main/settings.php:2287
+msgid "Display Swap"
+msgstr "Display Swap"
+
+#: main/settings.php:1385
+msgid "Varnish Settings"
+msgstr "Настройки Varnish"
+
+#: main/settings.php:1391
+msgid "If you use any different IP for Varnish than the default then set it here."
+msgstr "Если вы используете другой IP-адрес для Varnish, чем по умолчанию, установите его здесь."
+
+#: main/settings.php:1395
+msgid "Set your Varnish IP"
+msgstr "Установите свой IP-адрес Varnish"
+
+#: main/settings.php:1413
+msgid "File Optimization"
+msgstr "Оптимизация файлов"
+
+#: main/settings.php:1576
+msgid "Create Now"
+msgstr "Создать сейчас"
+
+#: main/settings.php:1580 main/settings.php:1602
+msgid "It extracts the necessary CSS of the viewport on load to improve load speed."
+msgstr "Он извлекает необходимый CSS из области просмотра при загрузке, чтобы улучшить скорость загрузки."
+
+#. Author of the plugin
+msgid "Softaculous Team"
+msgstr "Softaculous Team"
+
+#: main/ajax.php:691
+msgid "Was unable to generate CriticalCss"
+msgstr "Не удалось сгенерировать CriticalCss"
+
+#: main/settings.php:1377
+msgid "Deletes cache created by Varnish on Deletion of cache from SpeedyCache"
+msgstr "Удаляет кэш, созданный Varnish при удалении кэша из SpeedyCache"
+
+#: main/settings.php:2277 main/settings.php:2288
+msgid "Ensure text remains visible during Google font loads"
+msgstr "Убедитесь, что текст остается видимым во время загрузки шрифтов Google"
+
+#: main/settings.php:1374
+msgid "Purge Varnish"
+msgstr "Очистить Varnish"
+
+#: main/delete.php:712
+msgid "Please contact your hosting provider if, Varnish is enabled and still getting this error"
+msgstr "Свяжитесь с вашим хостинг-провайдером, если Varnish включен, но вы все еще получаете эту ошибку"
+
+#: main/delete.php:721
+msgid "Purged Varnish Cache Succesfully"
+msgstr "Кэш Varnish очищен успешно"
+
+#: main/settings.php:2900
+msgid "You are using Cloudflare so you should enable Cloudflare Integration. Please take a look at the following documentation"
+msgstr "Вы используете Cloudflare, поэтому вам следует включить интеграцию с Cloudflare. Пожалуйста, ознакомьтесь со следующей документацией"
+
+#: main/settings.php:1489 main/settings.php:4042
+msgid "Combine CSS"
+msgstr "Объединение CSS"
+
+#: main/settings.php:2039
+msgid "Gzip"
+msgstr "Gzip"
+
+#: main/settings.php:2083
+msgid "Disable Emojis"
+msgstr "Отключить Emojis"
+
+#: main/settings.php:2123 main/settings.php:2135
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: main/settings.php:2154 main/settings.php:2260 main/settings.php:4028
+msgid "Lazy Load"
+msgstr "Отложенная загрузка"
+
+#: main/settings.php:2221 main/settings.php:3667 main/settings.php:3702
+msgid "Add Keyword"
+msgstr "Добавить ключевое слово"
+
+#: main/settings.php:1915 main/settings.php:1926 main/settings.php:4029
+msgid "Instant Page"
+msgstr "Мгновенная страница"
+
+#: main/settings.php:2304 main/settings.php:2316
+msgid "Local Google Fonts"
+msgstr "Локальные шрифты Google"
+
+#: main/settings.php:2504
+msgid "Cache Statistics"
+msgstr "Статистика кеширования"
+
+#: main/settings.php:2510
+msgid "Desktop Cache"
+msgstr "Кэш настольного ПК"
+
+#: main/settings.php:2524
+msgid "Mobile Cache"
+msgstr "Мобильный кэш"
+
+#: main/settings.php:2675
+msgid "Cache Lifespan"
+msgstr "Время жизни кэша"
+
+#: main/settings.php:2677 main/settings.php:2784 main/settings.php:2796
+#: main/settings.php:2808 main/settings.php:2820 main/settings.php:2831
+msgid "Add New Rule"
+msgstr "Добавить новое правило"
+
+#: main/settings.php:2688
+msgid "Cache Timeout"
+msgstr "Таймаут кэширования"
+
+#: main/settings.php:2700
+msgid "All"
+msgstr "Все"
+
+#: main/settings.php:2702 main/settings.php:2861
+msgid "Starts With"
+msgstr "Начинается с"
+
+#: main/settings.php:2760
+msgid "Server Time"
+msgstr "Время сервера"
+
+#: main/settings.php:2818
+msgid "Exclude CSS"
+msgstr "Исключить CSS"
+
+#: main/settings.php:2829
+msgid "Exclude JS"
+msgstr "Исключить JS"
+
+#: main/settings.php:2859
+msgid "Archives"
+msgstr "Архивы"
+
+#: main/settings.php:2862
+msgid "Contains"
+msgstr "Содержит"
+
+#: main/settings.php:2904
+msgid "CDN Settings"
+msgstr "Настройки CDN"
+
+#: main/settings.php:2982
+msgid "API Token"
+msgstr "Токен API"
+
+#: main/settings.php:3012 main/settings.php:3079 main/settings.php:3122
+#: main/settings.php:3165
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: main/settings.php:3030
+msgid "Let's Get Started"
+msgstr "Давайте начнем"
+
+#: main/settings.php:3061
+msgid "Access Key"
+msgstr "Ключ доступа"
+
+#: main/settings.php:3067 main/settings.php:3110 main/settings.php:3153
+msgid "File Types"
+msgstr "Типы файлов"
+
+#: main/settings.php:3202
+msgid "ALL"
+msgstr "ВСЕ"
+
+#: main/settings.php:3215
+msgid "Post Revisions"
+msgstr "Редакции записей"
+
+#: main/settings.php:3267
+msgid "Transient Options"
+msgstr "Переходные параметры"
+
+#: main/settings.php:3279
+msgid "Expired Transients"
+msgstr "Истекшие Транзитные Данные"
+
+#: functions.php:372
+msgid "Once Every 1 Minute"
+msgstr "Каждую минуту"
+
+#: functions.php:378
+msgid "Once Every 5 Minutes"
+msgstr "Каждые 5 минут"
+
+#: functions.php:384
+msgid "Once Every 15 Minutes"
+msgstr "Каждые 15 минут"
+
+#: functions.php:390
+msgid "Twice an Hour"
+msgstr "Каждые полчаса"
+
+#: functions.php:396
+msgid "Once an Hour"
+msgstr "Каждый час"
+
+#: functions.php:402
+msgid "Once Every 2 Hours"
+msgstr "Каждые 2 часа"
+
+#: functions.php:408
+msgid "Once Every 3 Hours"
+msgstr "Каждые 3 часа"
+
+#: functions.php:414
+msgid "Once Every 4 Hours"
+msgstr "Каждые 4 часа"
+
+#: functions.php:420
+msgid "Once Every 5 Hours"
+msgstr "Каждые 5 часов"
+
+#: functions.php:426
+msgid "Once Every 6 Hours"
+msgstr "Каждые 6 часов"
+
+#: functions.php:432
+msgid "Once Every 7 Hours"
+msgstr "Каждые 7 часов"
+
+#: functions.php:438
+msgid "Once Every 8 Hours"
+msgstr "Каждые 8 часов"
+
+#: functions.php:444
+msgid "Once Every 9 Hours"
+msgstr "Каждые 9 часов"
+
+#: functions.php:450
+msgid "Once Every 10 Hours"
+msgstr "Каждые 10 часов"
+
+#: functions.php:456
+msgid "Once a Day"
+msgstr "Раз в сутки"
+
+#: functions.php:462
+msgid "Once Every 3 Days"
+msgstr "Каждые 3 дня"
+
+#: functions.php:474
+msgid "Once Every 10 Days"
+msgstr "Каждые 10 дней"
+
+#: functions.php:486
+msgid "Once a Month"
+msgstr "Раз в месяц"
+
+#: functions.php:492
+msgid "Once a Year"
+msgstr "Раз в год"
+
+#: main/admin.php:101 main/settings.php:2566
+msgid "Delete Cache"
+msgstr "Удалить кэш"
+
+#: main/admin.php:107
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">Настройки</a>"
+
+#: main/admin.php:110
+msgctxt "Upgrade to SpeedyCache Pro for many more features"
+msgid "Go Pro"
+msgstr "Перейти на PRO версию"
+
+#: main/admin.php:217
+msgid "Rate %s on %s"
+msgstr "Оценить %s на %s"
+
+#: main/cdn.php:646 main/cdn.php:679 main/cdn.php:712
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+#: main/metabox.php:36
+msgid "Disable Cache"
+msgstr "Отключить кэширование"
+
+#: main/settings.php:1018
+msgid "Caching"
+msgstr "Кеширование"
+
+#: main/settings.php:1027
+msgid "Enable Cache"
+msgstr "Включить кэш"
+
+#: main/settings.php:1054
+msgid "Select Post Types"
+msgstr "Выберите типы записей"
+
+#: main/settings.php:1085 main/settings.php:1192 main/settings.php:1306
+#: main/settings.php:1360 main/settings.php:1403 main/settings.php:1666
+#: main/settings.php:1745 main/settings.php:1804 main/settings.php:1885
+#: main/settings.php:1963 main/settings.php:2068 main/settings.php:2246
+#: main/settings.php:2663 main/settings.php:2766 main/settings.php:2877
+#: main/settings.php:3475 main/settings.php:3546 main/settings.php:3574
+#: main/settings.php:3622 main/settings.php:3769
+msgid "Submit"
+msgstr "Отправить"
+
+#: main/settings.php:1110 main/settings.php:1121
+msgid "Preload"
+msgstr "Предварительная загрузка"
+
+#: main/settings.php:1130 main/settings.php:1354
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: main/settings.php:1135 main/settings.php:2860
+msgid "Attachments"
+msgstr "Вложения"
+
+#: main/settings.php:1136
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: main/settings.php:1216
+msgid "Logged-in Users"
+msgstr "Зарегистрированные пользователи"
+
+#: main/settings.php:1256 main/settings.php:1440 main/settings.php:1478
+#: main/settings.php:1518 main/settings.php:1558 main/settings.php:1606
+#: main/settings.php:1685 main/settings.php:1764 main/settings.php:1823
+#: main/settings.php:1903 main/settings.php:1930 main/settings.php:1992
+#: main/settings.php:2019 main/settings.php:2111 main/settings.php:2139
+#: main/settings.php:2264 main/settings.php:2291 main/settings.php:2320
+#: main/settings.php:2348
+msgid "Premium"
+msgstr "Премиум"
+
+#: main/settings.php:1268 main/settings.php:1279
+msgid "New Post"
+msgstr "Новая запись"
+
+#: main/settings.php:1298 main/settings.php:1352
+msgid "Post Categories"
+msgstr "Категории записей"
+
+#: main/settings.php:1300
+msgid "Pagination"
+msgstr "Постраничная навигация"
+
+#: main/settings.php:1322 main/settings.php:1333
+msgid "Update Post"
+msgstr "Обновить запись"
+
+#: main/settings.php:2051
+msgid "Enable Gzip"
+msgstr "Включить GZIP"
+
+#: main/settings.php:2057
+msgid "How to Enable Gzip?"
+msgstr "Как включить Gzip?"
+
+#: main/settings.php:2730
+msgid "Choose One"
+msgstr "Выбрать один"
+
+#: main/settings.php:3129
+msgid "StackPath Settings"
+msgstr "Настройки StackPath"
+
+#: main/settings.php:1530
+msgid "Combine JS"
+msgstr "Объединить JS"
+
+#: main/settings.php:2095 main/settings.php:2107
+msgid "Render Blocking JS"
+msgstr "JS-файлы, блокирующие рендеринг"
+
+#: main/settings.php:2163
+msgid "Lazy Load Settings"
+msgstr "Настройки отложенной загрузки"
+
+#: main/settings.php:2483
+msgid "Show Logs"
+msgstr "Показать журналы"
+
+#: main/settings.php:2484
+msgid "Hide Logs"
+msgstr "Скрыть журналы"
+
+#: main/settings.php:2498 main/settings.php:3185
+msgid "Only available in Pro version"
+msgstr "Только в версии pro"
+
+#: main/settings.php:2499 main/settings.php:3186
+msgid "Buy Pro Version Now"
+msgstr "Получить версию ПРО сейчас"
+
+#: main/settings.php:2701 main/settings.php:2854
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: main/settings.php:2976
+msgid "Email"
+msgstr "Email"
+
+#: main/settings.php:3570
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: functions.php:468
+msgid "Once Every 7 Days"
+msgstr "Каждые 7 дней"
+
+#: functions.php:480
+msgid "Once Every 15 Days"
+msgstr "Каждые 15 дней"
+
+#: main/settings.php:465 main/settings.php:1027 main/settings.php:3399
+#: main/toolbar.php:127
+msgid "Settings"
+msgstr "Настройки"
+
+#: main/settings.php:1131 main/settings.php:2857
+msgid "Posts"
+msgstr "Записи"
+
+#: main/settings.php:1132 main/settings.php:2855
+msgid "Categories"
+msgstr "Рубрики"
+
+#: main/settings.php:1134 main/settings.php:2856
+msgid "Tags"
+msgstr "Метки"
+
+#: main/settings.php:1137
+msgid "Custom Taxonomies"
+msgstr "Пользовательские таксономии"
+
+#: main/settings.php:1133 main/settings.php:2858
+msgid "Pages"
+msgstr "Страницы"
+
+#: main/settings.php:1502 main/settings.php:1515
+msgid "You can decrease the size of JS files"
+msgstr "Вы можете уменьшить размер JS-файлов"
+
+#: main/settings.php:1543 main/settings.php:1555
+msgid "Reduce HTTP requests by combining JS files in footer"
+msgstr "Сократите количество HTTP-запросов, объединив JS-файлы в футере"
+
+#: main/settings.php:2029
+msgid "Miscellaneous"
+msgstr "Разное"
+
+#: main/settings.php:1113
+msgid "Create the cache of all the site automatically"
+msgstr "Автоматическое создание кэша для всего сайта"
+
+#: main/settings.php:1217
+msgid "Don't show the cached version for logged-in users"
+msgstr "Не показывать кешированную версию для авторизованных пользователей"
+
+#: main/settings.php:1227 main/settings.php:4033
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: main/settings.php:1228
+msgid "Don't show the cached version for desktop to mobile devices"
+msgstr "Не показывать кешированную версию для ПК на мобильных устройствах"
+
+#: main/settings.php:1239 main/settings.php:1252 main/settings.php:4032
+msgid "Mobile Theme"
+msgstr "Мобильная тема"
+
+#: main/settings.php:1240 main/settings.php:1253
+msgid "Create cache for mobile theme"
+msgstr "Создание кэша для темы мобильных устройств"
+
+#: main/settings.php:1271
+msgid "Clear cache files when a post or page is published"
+msgstr "Очистить файлы кеша при публикации записи или страницы"
+
+#: main/settings.php:1325
+msgid "Clear cache files when a post or page is updated"
+msgstr "Очистить файлы кэша при обновлении записи или страницы"
+
+#: main/settings.php:1425 main/settings.php:1436 main/settings.php:4024
+msgid "Minify HTML"
+msgstr "Минификация HTML"
+
+#: main/settings.php:1205
+msgid "Browser Caching"
+msgstr "Кэш браузера"
+
+#: main/settings.php:1206
+msgid "Reduce page load times for repeat visitors"
+msgstr "Сокращение времени загрузки страниц для повторных посетителей"
+
+#: main/settings.php:2084
+msgid "You can remove the emoji inline css and wp-emoji-release.min.js"
+msgstr "Вы можете удалить встроенные CSS смайлики (emoji) и wp-emoji-release.min.js"
+
+#: main/settings.php:2124 main/settings.php:2136
+msgid "Load Google Fonts asynchronously"
+msgstr "Асинхронная загрузка шрифтов Google"
+
+#: main/settings.php:2155 main/settings.php:2261
+msgid "Load images and iframes when they enter the browsers viewport"
+msgstr "Загружать изображения и iframe, когда они попадают в область просмотра браузера"
+
+#: main/settings.php:1169
+msgid "pages per minute"
+msgstr "страниц в минуту"
+
+#: main/settings.php:1181
+msgid "Restart After Completed"
+msgstr "Перезагрузить после завершения"
+
+#: main/settings.php:1285
+msgid "What do you want to happen after publishing the new post?"
+msgstr "Что вы хотите, чтобы произошло после публикации новой записи?"
+
+#: main/settings.php:1290 main/settings.php:1344 main/toolbar.php:104
+msgid "Clear All Cache"
+msgstr "Очистить весь кэш"
+
+#: main/settings.php:1297
+msgid "Clear Cache of Homepage"
+msgstr "Очистить кэш главной страницы"
+
+#: main/settings.php:1339
+msgid "What do you want to happen after update a post or a page?"
+msgstr "Что вы хотите, чтобы произошло после обновления записи или страницы?"
+
+#: main/settings.php:1351
+msgid "Clear Cache of Post / Page"
+msgstr "Очистить кэш записи/страницы"
+
+#: main/settings.php:2781
+msgid "Exclude Pages"
+msgstr "Исключить страницы"
+
+#: main/settings.php:2794
+msgid "Exclude User-Agents"
+msgstr "Исключить агентов-пользователей"
+
+#: main/settings.php:2806
+msgid "Exclude Cookies"
+msgstr "Исключить файлы cookie"
+
+#: main/settings.php:3191
+msgid "Database Cleanup"
+msgstr "Очистка базы данных"
+
+#: main/settings.php:2614 main/settings.php:2615 main/settings.php:2617
+#: main/settings.php:2620 main/settings.php:2623 main/settings.php:2626
+msgid "Target folder"
+msgstr "Целевая папка"
+
+#: main/toolbar.php:111
+msgid "Delete Cache and Minified CSS/JS"
+msgstr "Удалить кэш и минифицированные CSS/JS"
+
+#: main/settings.php:2651 main/settings.php:3564
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: main/settings.php:2697 main/settings.php:2849
+msgid "If REQUEST_URI"
+msgstr "Если REQUEST_URI"
+
+#: main/settings.php:2703 main/settings.php:2863
+msgid "Is Equal To"
+msgstr "Равно"
+
+#: main/settings.php:2756
+msgid "delete the files"
+msgstr "удалить файлы"
+
+#: main/settings.php:2864
+msgid "has Google Analytics Parameters"
+msgstr "имеет параметры Google Analytics"
+
+#: main/settings.php:2865
+msgid "has Woocommerce Items in Cart"
+msgstr "есть товары Woocommerce в корзине"
+
+#: main/htaccess.php:93
+msgid "Options have been saved"
+msgstr "Параметры сохранены"
+
+#: main/toolbar.php:87 main/toolbar.php:119
+msgid "Clear Cache of All Sites"
+msgstr "Очистить кеш всех сайтов"
+
+#: main/settings.php:3584
+msgid "Toolbar Settings"
+msgstr "Настройки панели инструментов"
+
+#. Plugin URI of the plugin
+msgid "https://speedycache.com"
+msgstr "https://speedycache.com"
+
+#. Author URI of the plugin
+msgid "https://speedycache.com/"
+msgstr "https://speedycache.com/"
+
+#: main/cdn.php:172
+msgid "No CDN found"
+msgstr "CDN не найден"
+
+#: main/settings.php:1299 main/settings.php:1353
+msgid "Post Tags"
+msgstr "Метки записи"
+
+#: main/settings.php:2096 main/settings.php:2108
+msgid "Defers render-blocking JavaScript resources"
+msgstr "Откладывает ресурсы JavaScript, блокирующие рендеринг"
+
+#: main/settings.php:2613
+msgid "Here are the folders that will be deleted"
+msgstr "Ниже приведены папки, которые будут удалены"
+
+#: main/settings.php:3068 main/settings.php:3111 main/settings.php:3154
+msgid "Specify the file types to host with the CDN."
+msgstr "Укажите типы файлов для размещения на CDN."
+
+#: main/settings.php:3663
+msgid "Specify Sources"
+msgstr "Указать источники"
+
+#: main/settings.php:1490
+msgid "Reduce HTTP requests through combined CSS files"
+msgstr "Сокращение запросов HTTP с помощью объединения CSS-файлов"
+
+#: main/settings.php:1501 main/settings.php:1514 main/settings.php:4025
+msgid "Minify JS"
+msgstr "Минификация JS"
+
+#: main/settings.php:2991
+msgid "Disable Auto Minify"
+msgstr "Отключить авто минификацию"
+
+#: main/settings.php:2992
+msgid "The Auto Minify options have been disabled automatically."
+msgstr "Параметры авто минификации были отключены автоматически."
+
+#: main/settings.php:3086
+msgid "Other CDN Settings"
+msgstr "Другие настройки CDN"
+
+#: main/settings.php:3203
+msgid "Run the all options"
+msgstr "Запустить все варианты"
+
+#: main/settings.php:3591
+msgid "This feature allows you to show the clear cache button which exists on the admin toolbar based on user roles."
+msgstr "Эта функция позволяет вам показывать кнопку очистки кэша, которая существует на панели инструментов администратора, в зависимости от роли пользователя."
+
+#: main/settings.php:3590
+msgid "Authorities"
+msgstr "Полномочия"
+
+#: main/settings.php:3633
+msgid "Once deleted the changes won't be reversible."
+msgstr "После удаления изменения необратимы."
+
+#: main/settings.php:3632
+msgid "Clean up the Database"
+msgstr "Очистить базу данных"
+
+#. Description of the plugin
+msgid "SpeedyCache is a plugin that helps you reduce the load time of your website by means of caching, minification, and compression of your website."
+msgstr "SpeedyCache - это плагин, который помогает уменьшить время загрузки вашего сайта за счет кэширования, минификации и сжатия вашего сайта."
+
+#: main/cache.php:1100
+msgid "Buffer is empty so the cache cannot be created"
+msgstr "Буфер пуст, поэтому кэш невозможно создать"
+
+#: main/settings.php:1028
+msgid "Enables caching"
+msgstr "Включает кэширование"
+
+#: main/settings.php:1048
+msgid "SpeedyCache Cache"
+msgstr "Кэш SpeedyCache"
+
+#: main/settings.php:1055
+msgid "Only Selected Post types will be cached"
+msgstr "Кешируются только выбранные типы записей"
+
+#: main/settings.php:1098
+msgid "Automatic Cache"
+msgstr "Автоматический кэш"
+
+#: main/settings.php:1099
+msgid "Create cache automatically after contents are saved."
+msgstr "Авто создание кэша после сохранения содержимого."
+
+#: main/settings.php:1451 main/settings.php:4041
+msgid "Minify CSS"
+msgstr "Минификация CSS"
+
+#: main/settings.php:1426 main/settings.php:1437
+msgid "Minifies HTML"
+msgstr "Минифицирует HTML"
+
+#: main/settings.php:3754
+msgid ".htaccess is not writeable"
+msgstr ".htaccess не доступен для записи"
+
+#: main/settings.php:3756
+msgid "2. Remove everything from .htaccess"
+msgstr "2. Удалите все из .htaccess"
+
+#: main/settings.php:3755
+msgid "1. Copy the rules from the textarea below"
+msgstr "1. Скопируйте правила из текстовой области ниже"
+
+#: main/settings.php:3757
+msgid "3. Paste the rules"
+msgstr "3. Вставьте правила"
+
+#: main/settings.php:1464 main/settings.php:1475
+msgid "Better minification of CSS"
+msgstr "Улучшенная минификация CSS"
+
+#: main/settings.php:3006
+msgid "Browser Cache Expiration"
+msgstr "Срок действия кэша браузера"
+
+#: main/settings.php:2608
+msgid "Clear all cache and the selections"
+msgstr "Очистите весь кэш и выделения"
+
+#: main/settings.php:1474
+msgid "Advanced Minfiy CSS"
+msgstr "Расширенная минификация CSS"
+
+#: main/settings.php:1463 main/settings.php:4026
+msgid "Advanced Minify CSS"
+msgstr "Расширенная минификация CSS"
+
+#: main/htaccess.php:70
+msgid "Better WordPress Minify needs to be deactivated<br>This plugin has aldready Minify feature"
+msgstr "Необходимо деактивировать Better WordPress Minify<br>В этом плагине уже есть функция Minify"
+
+#: main/settings.php:3007
+msgid "Browser Cache Expiration option has been set as 6 months."
+msgstr "Срок действия кэша браузера установлен на 6 месяцев."
+
+#: main/settings.php:2895
+msgid "CDN Settigs Saved"
+msgstr "Настройки CDN сохранены"
+
+#: main/htaccess.php:74
+msgid "CDN Enabler needs to be deactivated<br>This plugin has aldready CDN feature"
+msgstr "CDN Enabler необходимо деактивировать<br>В этом плагине уже есть функция CDN"
+
+#: main/settings.php:2921
+msgid "CDN to speed up your website"
+msgstr "CDN для ускорения вашего сайта"
+
+#: main/settings.php:3096 main/settings.php:3138
+msgid "CDN Url"
+msgstr "URL-адрес CDN"
+
+#: main/settings.php:2946
+msgid "CDN, DNS, DDoS protection and security"
+msgstr "CDN, DNS, защита и безопасность от DDoS"
+
+#: main/htaccess.php:71
+msgid "Check and Enable GZIP compression needs to be deactivated<br>This plugin has aldready Gzip feature"
+msgstr "Проверка и включение сжатия GZIP должны быть деактивированы<br>Этот плагин уже имеет функцию Gzip"
+
+#: main/settings.php:3019
+msgid "Bunny CDN Settings"
+msgstr "Настройки CDN Bunny"
+
+#: main/cdn.php:356
+msgid "Bunny Pull Zone not found"
+msgstr "Bunny Pull Zone не найдена"
+
+#: main/settings.php:2968
+msgid "CloudFlare Settings"
+msgstr "Настройки CloudFlare"
+
+#: main/settings.php:2181
+msgid "Custom Placeholder"
+msgstr "Пользовательский заполнитель"
+
+#: main/settings.php:2589
+msgid "Delete Fonts"
+msgstr "Удалить шрифты"
+
+#: main/settings.php:2577
+msgid "Delete Minified"
+msgstr "Удалить минификацию"
+
+#: main/settings.php:2999
+msgid "Disable Rocket Loader"
+msgstr "Отключить Rocket Loader"
+
+#: main/settings.php:2657
+msgid "Disabled Cron"
+msgstr "Отключен Cron"
+
+#: main/settings.php:2972
+msgid "Enter API Keys"
+msgstr "Введите ключи API"
+
+#: main/settings.php:3043 main/settings.php:3092 main/settings.php:3133
+msgid "Enter CDN Url"
+msgstr "Введите URL-адрес CDN"
+
+#: main/settings.php:2934
+msgid "Secure and accelerate your websites"
+msgstr "Защитите и ускорьте свои сайты"
+
+#: main/settings.php:2853
+msgid "Select a Value"
+msgstr "Выберите значение"
+
+#: main/htaccess.php:62
+msgid "SG Optimizer needs to be deactived"
+msgstr "SG Optimizer должен быть деактивирован"
+
+#: main/cdn.php:339
+msgid "Something Went Wrong: Getting Pull ID was unsuccessful "
+msgstr "Что-то пошло не так: Получение Pull ID не удалось "
+
+#: main/cdn.php:540
+msgid "Something Went Wrong: Purge was unsuccessful with response code of "
+msgstr "Что-то пошло не так: Очистка не удалась с кодом ответа "
+
+#: main/settings.php:2172
+msgid "Specify an image to be used as a placeholder while other images finish loading."
+msgstr "Укажите изображение, которое будет использоваться в качестве заполнителя, пока другие изображения завершают загрузку."
+
+#. Plugin Name of the plugin
+#: main/admin.php:217 main/toolbar.php:99
+msgid "SpeedyCache"
+msgstr "SpeedyCache"
+
+#: main/htaccess.php:73
+msgid "Speed Booster Pack needs to be deactivated"
+msgstr "Пакет Speed Booster Pack необходимо деактивировать"
+
+#: main/settings.php:2714
+msgid "Then"
+msgstr "Затем"
+
+#: main/cdn.php:757
+msgid "There is no zone"
+msgstr "Нет никакой зоны"
+
+#: main/settings.php:3254
+msgid "Trackbacks and Pingbacks"
+msgstr "Обратные ссылки и уведомления"
+
+#: main/settings.php:3241
+msgid "Trashed & Spam Comments"
+msgstr "Удаленные и спам комментарии"
+
+#: main/settings.php:2223 main/settings.php:3669 main/settings.php:3704
+msgid "Use Comma to create new keyword"
+msgstr "Используйте запятую, чтобы создать новое ключевое слово"
+
+#: main/settings.php:2958
+msgid "You can use any cdn provider."
+msgstr "Вы можете использовать любого поставщика CDN."
+
+#: main/cdn.php:316
+msgid "Bunny CDN Access Key not found"
+msgstr "Ключ доступа Bunny CDN не найден"
+
+#: main/cdn.php:345
+msgid "Bunny CDN pull ID response body is empty"
+msgstr "Текст ответа Bunny CDN pull ID пуст"
+
+#: main/cdn.php:330 main/cdn.php:531
+msgid "Bunny CDN retuned an empty response"
+msgstr "Bunny CDN повторно настроил пустой ответ"
+
+#: main/settings.php:3242
+msgid "Clean the all comments from trash & spam"
+msgstr "Очистить все комментарии от мусора и спама"
+
+#: main/settings.php:3216
+msgid "Clean the all post revisions"
+msgstr "Очистить все редакции записей"
+
+#: main/settings.php:3255
+msgid "Clean the all trackbacks and pingbacks"
+msgstr "Очистить все обратные ссылки и уведомления"
+
+#: main/settings.php:3268
+msgid "Clean the all transient options"
+msgstr "Очистить истекшие транзиенты"
+
+#: main/settings.php:3229
+msgid "Clean the all trashed posts & pages"
+msgstr "Очистите все записи и страницы в корзине"
+
+#: main/settings.php:3280
+msgid "Clean the expired transients"
+msgstr "Очистите просроченные транзиенты"
+
+#: main/settings.php:3037
+msgid "Create a Bunny CDN Account"
+msgstr "Создание учетной записи Bunny CDN"
+
+#: main/settings.php:2590
+msgid "Deletes Local Google Fonts"
+msgstr "Удаляет локальные шрифты Google"
+
+#: main/settings.php:2234
+msgid "Exclude full size images in posts or pages"
+msgstr "Исключить полноразмерные изображения в сообщениях или на страницах"
+
+#: main/settings.php:2842
+msgid "Exclude Page"
+msgstr "Исключить страницу"
+
+#: main/settings.php:2217 main/settings.php:3697
+msgid "Exclude Sources"
+msgstr "Исключить источники"
+
+#: main/htaccess.php:66 main/htaccess.php:69
+msgid "Far Future Expiration Plugin needs to be deactivated"
+msgstr "Плагин Far Future Expiration необходимо деактивировать"
+
+#: main/htaccess.php:64
+msgid "Fast Velocity Minify needs to be deactivated"
+msgstr "Плагин Fast Velocity Minify необходимо деактивировать"
+
+#: main/settings.php:3557
+msgid "or through Our Premium Support Ticket System at"
+msgstr "или через нашу систему обращений в службу поддержки премиум-класса по адресу"
+
+#: main/settings.php:3055 main/settings.php:3104 main/settings.php:3147
+msgid "Origin Url"
+msgstr "URL-адрес источника"
+
+#: main/settings.php:3047
+msgid "Pull Zone"
+msgstr "Pull Zone"
+
+#: main/settings.php:1531
+msgid "Reduce HTTP requests by Combining JS files in header"
+msgstr "Уменьшите HTTP-запросы, объединив файлы JS в заголовке"
+
+#: main/cdn.php:543
+msgid "Success: Bunny CDN purged successfully"
+msgstr "Успешно: Bunny CDN успешно очищен"
+
+#: main/settings.php:3570
+msgid "The cache has <u>NOT</u> been deleted because of permissions problem please"
+msgstr "Кэш <u>НЕ</u> был удален из-за проблемы с правами доступа"
+
+#: main/settings.php:2658
+msgid "The Cron has been disabled entirely by setting"
+msgstr "Cron был полностью отключен путем настройки"
+
+#: main/settings.php:3000
+msgid "The Rocket Loader option has been disabled automatically."
+msgstr "Опция Rocket Loader была отключена автоматически."
+
+#: main/settings.php:3228
+msgid "Trashed Contents"
+msgstr "Содержимое корзины"
+
+#: main/cdn.php:699
+msgid "Unable to disable minify options"
+msgstr "Невозможно отключить параметры минификации"
+
+#: main/cdn.php:584 main/cdn.php:633
+msgid "Unable to disable rocket loader option"
+msgstr "Невозможно отключить опцию rocket loader"
+
+#: main/cdn.php:666
+msgid "Unable to set the browser caching option"
+msgstr "Не удалось установить параметр кэширования браузера"
+
+#: main/htaccess.php:67
+msgid "WordPress Gzip Compression needs to be deactivated<br>This plugin has aldready Gzip feature"
+msgstr "WordPress Gzip Compression необходимо деактивировать<br>В этом плагине уже есть функция Gzip"
+
+#: main/htaccess.php:61
+msgid "WP Fastest Cache Plugin needs to be deactivated"
+msgstr "Плагин WP Fastest Cache должен быть деактивирован"
+
+#: main/htaccess.php:68
+msgid "WP Performance Score Booster needs to be deactivated<br>This plugin has aldready Gzip, Leverage Browser Caching features"
+msgstr "Плагин WP Performance Score Booster необходимо деактивировать<br>В этом плагине уже есть Gzip, используйте функции кэширования браузера"
+
+#: main/settings.php:3557
+msgid "You can contact the SpeedyCache Team via email. Our email address is"
+msgstr "Вы можете связаться с командой SpeedyCache по электронной почте. Наш адрес электронной почты"
+
+#: main/settings.php:1452
+msgid "You can decrease the size of CSS files"
+msgstr "Вы можете уменьшить размер файлов CSS"
+
+#: main/htaccess.php:63
+msgid "GZip Ninja Speed Compression needs to be deactivated<br>This plugin has aldready Gzip feature"
+msgstr "GZip Ninja Speedi Compression необходимо отключить<br>В этом плагине уже есть функция Gzip"
+
+#: main/htaccess.php:65
+msgid "GZIP Output needs to be deactivated<br>This plugin has aldready Gzip feature"
+msgstr "Вывод GZIP необходимо отключить<br>В этом плагине уже есть функция Gzip"
+
+#: main/settings.php:2305 main/settings.php:2317
+msgid "Loads google fonts from your local server"
+msgstr "Загружает шрифты Google с вашего локального сервера"
+
+#: main/cdn.php:212
+msgid "No CDN found to pause"
+msgstr "Не найдено CDN для паузы"
+
+#: main/cdn.php:249
+msgid "No data passed to save"
+msgstr "Данные для сохранения не переданы"
+
+#: main/cdn.php:773
+msgid "No zone name "
+msgstr "Нет названия зоны "
+
+#: main/settings.php:2988
+msgid "Note: Please read How to Integrate Cloudflare into speedycache"
+msgstr "Примечание. Прочтите, как интегрировать Cloudflare в SpeedyCache"
+
+#: main/settings.php:2058
+msgid "Nginx is used in the server so you need to enable the Gzip manually. Please take a look at the following tutorial."
+msgstr "На сервере используется Nginx, поэтому вам нужно включить Gzip вручную. Пожалуйста, взгляните на следующий учебник."
+
+#: main/settings.php:2040
+msgid "Reduce the size of files sent from your server"
+msgstr "Сокращение размерf файлов, отправляемых с вашего сервера"
+
+#: main/settings.php:2170
+msgid "Image Placeholder"
+msgstr "Заполнитель изображения"
+
+#: main/settings.php:2218
+msgid "It is enough to write a keyword such as"
+msgstr "Достаточно написать такое ключевое слово, как"
+
+#: main/settings.php:1916 main/settings.php:1927
+msgid "Improves page load speed"
+msgstr "Улучшает скорость загрузки страницы"
+
+#: main/settings.php:3664
+msgid "If you want some of the sources instead of all the sources to be served via CDN, you can specify the sources. If a source url contains any keyword below, it is served via CDN."
+msgstr "Если вы хотите, чтобы некоторые источники вместо всех источников обслуживались через CDN, вы можете указать источники. Если исходный URL-адрес содержит какое-либо ключевое слово ниже, он обслуживается через CDN."
+
+#: main/settings.php:3698
+msgid "If you want some of the sources NOT to be served via CDN, you can specify the sources. If a source url contains any keyword below, it is NOT served via CDN."
+msgstr "Если вы хотите, чтобы некоторые источники НЕ обслуживались через CDN, вы можете указать источники. Если исходный URL-адрес содержит какое-либо ключевое слово ниже, он НЕ обслуживается через CDN."
+
+#: main/settings.php:3748
+msgid "Manually Modify .htaccess"
+msgstr "Изменить вручную .htaccess"
+
+#: main/htaccess.php:72
+msgid "GZippy needs to be deactivated<br>This plugin has aldready Gzip feature"
+msgstr "GZippy необходимо деактивировать<by>В этом плагине уже есть функция Gzip"
+
+#: main/settings.php:1542 main/settings.php:1554
+msgid "Advanced Combine JS"
+msgstr "Расширенная комбинация JS"
+
+#: main/settings.php:2578
+msgid "Deletes Minfied/ Combined CSS/JS files"
+msgstr "Удаляет минифицированные/объединенные файлы CSS/JS"
+
+#: main/settings.php:2537
+msgid "Minified CSS"
+msgstr "Сжатый CSS"
+
+#: main/htaccess.php:75
+msgid "Head Cleaner needs to be deactivated"
+msgstr "Необходимо деактивировать Head Cleaner"
+
+#: main/settings.php:2549
+msgid "Minified JS"
+msgstr "Сжатый JS"

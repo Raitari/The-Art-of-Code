@@ -1,0 +1,661 @@
+# Translation of Themes - OutWit Lite in Russian
+# This file is distributed under the same license as the Themes - OutWit Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-31 14:07:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - OutWit Lite\n"
+
+#. Theme Name of the theme
+#: inc/about.php:49
+#, gp-priority: high
+msgid "OutWit Lite"
+msgstr "OutWit Lite"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "OutWit Lite is a free versatile eCommerce WordPress block theme that makes building an online store effortless than ever. The theme is perfect for all types of online businesses for displaying products and services online. It comes with tons of powerful features that manage all sorts of eCommerce websites. With the help of drag and drop interface, you can easily change every element of your website. The theme includes an attractive design that is built to boost your online store sales. And, there are many advanced options available that let you style your store the way you like. There are 17+ block patterns, 15 Templates, and 7 Template Parts available in this theme. This theme is fully compatible with the WooCommerce plugin, so build a fully functional online store with OutWit Lite. Some of the block patterns are 404 Header, Archive Header, Best Seller, Blog Header With Background, Featured Content, Footer, Header, Header Media, Promo Section, Recent Blog, Search Header, Shop Header, Sidebar, and many more. All the block patterns, Templates, and Template Parts are extremely fast loading, optimized for mobile, and highly customizable."
+msgstr "OutWit Lite — бесплатная универсальная блочная тема WordPress для электронной коммерции, которая упрощает создание интернет-магазина. Тема идеально подходит для всех типов онлайн-бизнеса для отображения продуктов и услуг в Интернете. Он поставляется с множеством мощных функций, которые управляют всеми видами сайтов электронной коммерции. С помощью интерфейса перетаскивания вы можете легко изменить каждый элемент вашего сайта. Тема включает в себя привлекательный дизайн, созданный для увеличения продаж в вашем интернет-магазине. Кроме того, доступно множество расширенных опций, которые позволяют оформить ваш магазин так, как вам нравится. В этой теме доступно более 17 паттернов блоков, 15 шаблонов и 7 частей шаблона. Эта тема полностью совместима с плагином WooCommerce, поэтому создайте полнофункциональный интернет-магазин с помощью OutWit Lite. Некоторые из шаблонов блоков: 404 Заголовок, Заголовок архива, Бестселлер, Заголовок блога с фоном, Рекомендуемое содержимое, Подвал, Заголовок, Медиа заголовка, Раздел промо, Недавний блог, Заголовок поиска, Заголовок магазина, Боковая панель и многие другие. Все паттерны блоков, шаблоны и части шаблонов чрезвычайно быстро загружаются, оптимизированы для мобильных устройств и легко настраиваются."
+
+#: inc/about.php:19
+msgid "OutWit"
+msgstr "OutWit"
+
+#: inc/about.php:22
+msgid "Get OutWit"
+msgstr "Получить OutWit"
+
+#: inc/about.php:20
+msgid "Get your hands on the WordPress Full Site Editing features. Start building your website with advanced block patterns and custom blocks! Get additional 27+ Pre-Designed Block Patterns, 25 FSE Templates, and 12 Template Parts  that are highly customizable and fully responsive."
+msgstr "Получите в свои руки функции полного редактирования сайта WordPress. Начните создавать свой веб-сайт с расширенными паттернов блоков и пользовательскими блоками! Получите дополнительные 27+ предварительно разработанных паттернов блоков, 25 шаблонов FSE и 12 частей шаблона, которые легко настраиваются и полностью реагируют."
+
+#: inc/about.php:95
+msgid "Important Links"
+msgstr "Полезные ссылки"
+
+#: patterns/hidden-404.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/about.php:100
+msgid "Support"
+msgstr "Поддержка"
+
+#: patterns/recent-blog.php:88
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/about.php:24 inc/about.php:96
+msgid "Theme Info"
+msgstr "Информация о теме"
+
+#: patterns/footer-default.php:15
+msgid "Y"
+msgstr "Y"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: patterns/recent-blog.php:96
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr "Страницы"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: patterns/404-header.php
+msgctxt "Pattern title"
+msgid "404 Header"
+msgstr "Заголовок 404"
+
+#: patterns/404-header-with-background.php:22 patterns/404-header.php:13
+msgid "404 Nothing Found"
+msgstr "404 Ничего не найдено"
+
+#: patterns/recent-blog.php:55
+msgid "About"
+msgstr "О нас"
+
+#: patterns/archive-header.php
+msgctxt "Pattern title"
+msgid "Archive Header"
+msgstr "Заголовок архива"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr "Архив товара"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Arial"
+msgstr "Arial"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Основной текст"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Century Gothic"
+msgstr "Century Gothic"
+
+#: inc/about.php:99
+msgid "Change log"
+msgstr "Журнал изменений"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Заголовок содержимого"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Courier New"
+msgstr "Courier New"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: inc/about.php:68
+msgid "Free Full Site Editing WordPress Theme"
+msgstr "Бесплатная тема WordPress для полного редактирования сайта"
+
+#: inc/about.php:98
+msgid "FSE FAQs"
+msgstr "Часто задаваемые вопросы о FSE"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Helvetica Neue"
+msgstr "Helvetica Neue"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Огромный (дисплей)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Impact"
+msgstr "Impact"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Istok Web"
+msgstr "Istok Web"
+
+#: inc/about.php:107
+msgid "Leave us a review"
+msgstr "Оставьте нам отзыв"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lucida Grande"
+msgstr "Lucida Grande"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lucida Sans Unicode"
+msgstr "Lucida Sans Unicode"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monaco"
+msgstr "Monaco"
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr "Без заполнения"
+
+#: patterns/404-header-with-background.php:25 patterns/404-header.php:17
+msgid "Oops! That page can't be found"
+msgstr "Ой! Эта страница не может быть найдена"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr "Содержимое страницы"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Palatino"
+msgstr "Palatino"
+
+#: inc/block-styles.php:44
+msgid "Plain"
+msgstr "Простой"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: patterns/post-header.php
+msgctxt "Pattern title"
+msgid "Post Header"
+msgstr "Заголовок записи"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Search Results"
+msgstr "Результаты поиска товара"
+
+#: patterns/recent-blog.php:70
+msgid "Read More"
+msgstr "Читать далее"
+
+#: patterns/blog-header-with-background.php:19
+msgid "Recent From Blog"
+msgstr "Последние из блога"
+
+#: inc/about.php:109
+msgid "Review"
+msgstr "Отзыв"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: patterns/shop-header.php
+msgctxt "Pattern title"
+msgid "Shop Header"
+msgstr "Заголовок магазина"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Отдельная страница (боковая панель справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Отдельная запись (боковая панель справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System fonts"
+msgstr "Системные шрифты"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: patterns/shop-header.php:17
+msgid "The Shop"
+msgstr "Магазин"
+
+#: inc/about.php:78
+msgid "Theme instructions"
+msgstr "Инструкции по теме"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Верхний заголовок"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Verdana"
+msgstr "Verdana"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404 Content"
+msgstr "Содержимое 404"
+
+#: patterns/404-header-with-background.php
+msgctxt "Pattern title"
+msgid "404 Header With Background"
+msgstr "404 Заголовок с фоном"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Alternate Border Color"
+msgstr "Альтернативный цвет рамки"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Alternate Secondary Bg Color"
+msgstr "Альтернативный вторичный цвет фона"
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr "Заголовок архива с фоном"
+
+#: patterns/promo.php:21
+msgid "Autumn 2023 Collection"
+msgstr "Коллекция Осень 2023"
+
+#: patterns/best-seller.php
+msgctxt "Pattern title"
+msgid "Best Seller"
+msgstr "Лидер продаж"
+
+#: inc/block-patterns.php:18
+msgid "Outwit Lite"
+msgstr "Outwit Lite"
+
+#: patterns/promo.php:27
+msgid "Shop now"
+msgstr "Купить сейчас"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Sidebar on Right)"
+msgstr "Блог (боковая панель справа)"
+
+#: patterns/blog-header-with-background.php
+msgctxt "Pattern title"
+msgid "Blog Header With Background"
+msgstr "Заголовок блога с фоном"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Button Bg Color"
+msgstr "Цвет фона кнопки"
+
+#: inc/about.php:86
+msgid "Buy Outwit"
+msgstr "Купить Outwit"
+
+#: theme.json
+msgctxt "Color name"
+msgid "color light"
+msgstr "светлый цвет"
+
+#: patterns/footer-default.php:14
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Danger Color"
+msgstr "Цвет опасности"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Color"
+msgstr "Тёмный цвет"
+
+#: patterns/header-with-cart-banner.php:63
+msgid "denim Co."
+msgstr "denim Co."
+
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Bg Color"
+msgstr "Цвет фона подвала"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Передний план и фон"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Передний план и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Передний план и третичный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr "Jost"
+
+#: inc/about.php:76
+msgid "Getting Started with OutWit Lite!"
+msgstr "Начало работы со OutWit Lite!"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and background"
+msgstr "Ссылка и фон"
+
+#: patterns/recent-blog.php:63
+msgid ""
+"Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Maecenas odio lacus, dignissim sollicitudin finibus\n"
+"            commodo, rhoncus et ante."
+msgstr ""
+"Обслуживание клиентов очень важно, в результате поддержки клиентов. Меценат ненавидит приз, dignissim заботится о пределах\n"
+"             комфорт, комфорт и до."
+
+#: inc/about.php:108
+msgid "Loved OutWit Lite? Feel free to leave your feedback. Your opinion helps us reach more audiences!"
+msgstr "Понравился OutWi Lite? Не стесняйтесь оставить свой отзыв. Ваше мнение помогает нам привлечь больше аудитории!"
+
+#: inc/about.php:84
+msgid "More Features with OutWit Theme"
+msgstr "Больше возможностей с темой OutWit"
+
+#: patterns/best-seller.php:13
+msgid "Our Best Seller"
+msgstr "Наш бестселлер"
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr "Заголовок записи с фоном"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: patterns/promo.php
+msgctxt "Pattern title"
+msgid "Promo Section"
+msgstr "Промо раздел"
+
+#: patterns/promo.php:18
+msgid "Promotional Content"
+msgstr "Рекламный контент"
+
+#: patterns/recent-blog.php
+msgctxt "Pattern title"
+msgid "Recent Blog"
+msgstr "Последний блог"
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search header"
+msgstr "Заголовок поиска"
+
+#: patterns/search-header-with-background.php
+msgctxt "Pattern title"
+msgid "Search header With Background"
+msgstr "Заголовок поиска с фоном"
+
+#: patterns/hidden-404.php:11
+msgid "Search..."
+msgstr "Поиск…"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Bg Color"
+msgstr "Вторичный цвет фона"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/block-styles.php:35 inc/block-styles.php:53 inc/block-styles.php:62
+#: inc/block-styles.php:72 inc/block-styles.php:82 inc/block-styles.php:91
+msgid "Theme Style"
+msgstr "Стиль темы"
+
+#: patterns/hidden-404.php:9
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Эта страница не найдена. Попробуйте поиск?"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: patterns/header-with-cart-banner.php:69
+msgid "View More"
+msgstr "Смотреть больше"
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr "Задайте имя файла SVG значка."
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr "Определите параметры по умолчанию в виде массива."
+
+#: inc/about.php:97
+msgid "View Demo"
+msgstr "Смотреть демонстрацию"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "All Products"
+msgstr "Все товары"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: patterns/recent-blog.php:80
+msgid "Recent Post"
+msgstr "Свежая запись"
+
+#: patterns/featured-content.php:13
+msgid "Featured Content"
+msgstr "Рекомендуемое содержимое"
+
+#: patterns/featured-content.php
+msgctxt "Pattern title"
+msgid "Featured Content"
+msgstr "Рекомендуемое содержимое"
+
+#: inc/about.php:77
+msgid "Awesome! OutWit Lite has been installed and activated successfully. Now, you can start building your dream website with a wide range of highly-customizable block patterns, templates, and template parts available in this astounding theme."
+msgstr "Потрясающий! OutWit Lite успешно установлена и активирована. Теперь вы можете приступить к созданию веб-сайта своей мечты с широким спектром настраиваемых паттернов блоков, шаблонов и частей шаблонов, доступных в этой поразительной теме."
+
+#: inc/about.php:85
+msgid "To get more beautiful block patterns and templates, we recommend you upgrade to OutWit. With the pro theme installed, get more options, blocks, block patterns, templates and template parts."
+msgstr "Чтобы получить более красивые паттерны и шаблоны блоков, мы рекомендуем вам перейти на OutWit. Установив премиальную тему, вы получите больше опций, блоков, паттернов блоков, шаблонов и частей шаблонов."
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Text Color"
+msgstr "Цвет вторичного текста"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://catchthemes.com"
+msgstr "https://catchthemes.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://catchthemes.com/themes/outwit-lite"
+msgstr "https://catchthemes.com/themes/outwit-lite"
