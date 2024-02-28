@@ -1,0 +1,19 @@
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-02-25 09:46:25
+Wordpress version 6.4.3; Woocommerce version: 8.6.1
+REQUEST: https://lk.sbergate.ru/mportal/mvc/public/merchant/update/
+[callback_addresses_string]: https://raitar.online?wc-api=WC_RBSPayment_Sber&sber=callback
+[RESPONSE]: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>Error 400 Parameter conditions &quot;future&quot; OR &quot;future, cancel&quot; not met for actual request parameters: </title>
+</head>
+<body><h2>HTTP ERROR 400</h2>
+<p>Problem accessing /mportal/mvc/public/merchant/update/. Reason:
+<pre>    Parameter conditions &quot;future&quot; OR &quot;future, cancel&quot; not met for actual request parameters: </pre></p>
+</body>
+</html>
+
+
